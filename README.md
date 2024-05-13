@@ -1,22 +1,11 @@
-### Hi there 👋
+## Hi there 👋  <img align="right" src="https://komarev.com/ghpvc/?username=Amabeusz" />
 
-🌱 I’m currently learning go
 
-![](https://komarev.com/ghpvc/?username=Amabeusz)
+<img align="right" src="https://streak-stats.demolab.com?user=Amabeusz&theme=transparent&hide_border=true&border_radius=50" />
+<img align="center" src="https://streak-stats.demolab.com?user=Amabeusz&theme=transparent&hide_border=true&border_radius=50" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Amabeusz&theme=dark)](https://git.io/streak-stats)
+> 🌱 I’m currently learning go
 
-<!--
-**Amabeusz/Amabeusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
