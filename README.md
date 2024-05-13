@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning go
+
+![](https://komarev.com/ghpvc/?username=Amabeusz)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Amabeusz&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **Amabeusz/Amabeusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
